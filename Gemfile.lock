@@ -54,3 +54,6 @@ DEPENDENCIES
   pry
   rspec
   tux
+
+BUNDLED WITH
+   1.12.5
